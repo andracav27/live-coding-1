@@ -1,3 +1,8 @@
+//Andrea Lizeth Andraca Vazquez
+//4-5
+//Tuvo algunos incovenientes, pero pudo resolver el problema
+//Se debe repasar la leccion de dom
+
 function bigWords(string, stringArray) {
     const result = [];
   
